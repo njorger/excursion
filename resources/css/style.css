@@ -1,0 +1,23 @@
+html {
+  font-family: Verdana;
+  background-color: Black;
+  text-align: center;
+}
+
+h1 {
+  color: White;
+  font-size: 50px;
+}
+
+h2 {
+  color: Grey;
+  font-size: 21px;
+}
+
+a {
+  color: Turquoise;
+}
+
+.footer {
+  text-align: right;
+}
